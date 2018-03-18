@@ -18,7 +18,7 @@ const newNumbers = [...numbers, 4];
 console.log(newNumbers)
 
 // Console
-[1, 2, 3, 4]
+/* [1, 2, 3, 4] */
 
 // Object
 const person = {
@@ -33,10 +33,10 @@ const newPerson = {
 console.log(newPerson)
 
 // Console
-[object Object] {
+/* [object Object] {
   age: "24",
   name: "Jeerawat"
-}
+} */
 
 // Function
 const filter = (...args) => {
@@ -46,4 +46,4 @@ const filter = (...args) => {
 console.log(filter(1, 2, 3))
 
 // Console
-[1]
+/* [1] */
