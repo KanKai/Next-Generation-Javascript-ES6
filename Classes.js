@@ -25,5 +25,5 @@ person.printMyName();
 person.printGender();
 
 // Console
-"Jeerawat"
-"female"
+/* "Jeerawat"
+"female" */
