@@ -29,10 +29,10 @@ console.log(mutiply2(3))
 
 
 // Console
-"Jeerawat"
+/* "Jeerawat"
 "Jeerawat2"
 "Jeerawat3"
 "Jeerawat4"
 "24"
 4
-6
+6 */
